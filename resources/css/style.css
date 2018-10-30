@@ -1,0 +1,24 @@
+h1 {
+  font-family: verdana;
+  font-size: 50px;
+  color: white;
+}
+
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  color: aquamarine;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+footer p {
+  text-align: right;
+}
